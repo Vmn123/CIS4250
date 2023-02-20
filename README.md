@@ -1,3 +1,6 @@
-# CIS 4250 Business Intelligence Applications
-LiDAR datasets and ArcGIS Pro Project (“Can CalStateLA Go Solar?”)
-Team Project for Business Intelligence Applications (CIS 4250). We showcased the LiDAR datsets in whether or not “Can CalStateLA Go Solar?" Our application is displayed by ArcGIS Pro.
+# LiDAR datasets and ArcGIS Pro Project (“Can CalStateLA Go Solar?”) for CIS 4250 Business Intelligence Applications
+# Overview
+ Our project aims to conduct research and analysis using LiDAR data in determining whether California State University, Los Angeles can go solar or not. The project model will also look at the processes of extracting building footprints and calculating the estimated total area suitable for solar panel installation.
+ # Insight 
+ The analysis indicates that California State University, Los Angeles will not be able to be dependent on solar energy taking into consideration the many facilities of the university and the limited area that can be used to install solar panels. The university has an estimated area of 83,789.6 square meters suitable for solar panels represented by the campus building rooftops. This area can produce an estimated 23,315.5 MWh in the year. According to the final outline of the CalStateLA climate action plan of 2019, the campus consumes an estimated 35,500 MWh per year which renders the electricity produced from solar panels insufficient for the campus to go solar. In order to satisfy the unmet energy demand, the university will need to allocate additional areas for solar panels if possible and add battery backup to the solar system. It may also integrate another green energy source like wind or organic plants and waste material to meet the unmet energy demand.
+<img width="925" alt="Screen Shot 2023-02-20 at 3 28 55 PM" src="https://user-images.githubusercontent.com/89857781/220212681-453715f5-5462-4975-889f-63849d63b6cc.png">
